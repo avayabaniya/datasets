@@ -1,0 +1,53 @@
+State,Preliminary Total Turnout Estimate,Status,Source,Preliminary Turnout Rate,Voting-Eligible Population (VEP),Voting-Age Population (VAP),% Non-citizen,Prison,Probation,Parole,Total Ineligible Felon,Overseas Eligible,State Abv
+United States,"11,20,30,874",,,46.20%,"24,26,90,810","26,16,73,203",7.50%,"11,57,707","11,45,315","3,40,972","26,43,994","31,29,152",
+Alabama,"14,24,087",Certified,https://www2.alabamavotes.gov/electionnight/statewideResultsByContest.aspx?ecode=1001160,37.30%,"38,20,009","39,77,770",2.30%,"25,328","32,711","8,245","66,284",,AL
+Alaska,"2,67,047",Official,https://www.elections.alaska.gov/election-results/,50.20%,"5,31,448","5,58,308",3.50%,"4,578","1,682","1,003","7,263",,AK
+Arizona,"25,92,313",Certified,https://azsos.gov/elections,49.30%,"52,57,070","58,06,140",7.90%,"34,997","50,333","6,887","92,217",,AZ
+Arkansas,"9,14,227",Official,https://results.enr.clarityelections.com/AR/115767/web.307039/#/summary,41.50%,"22,02,252","23,57,190",3.60%,"15,850","27,511","25,852","69,213",,AR
+California,"1,11,46,610",Certified,https://electionresults.sos.ca.gov/,42.90%,"2,59,94,715","3,05,42,685",14.60%,"97,328",0,0,"97,328",,CA
+Colorado,"25,40,666",Official,https://results.enr.clarityelections.com/CO/115903/web.307039/#/summary,58.30%,"43,57,176","46,42,930",5.80%,"14,990",0,0,"14,990",,CO
+Connecticut,"12,97,811",Official,https://ctemspublic.pcctg.net/#/home,48.60%,"26,72,164","29,01,604",7.60%,"9,297",0,0,"9,297",,CT
+Delaware,"3,25,632",Official,https://elections.delaware.gov/results/html/index.shtml?electionId=GE2022,42.80%,"7,61,497","8,15,329",5.10%,"4,653","7,004",373,"12,030",,DE
+District of Columbia,"2,05,774",Certified,https://electionresults.dcboe.org/election_results/2022-General-Election,40.60%,"5,06,405","5,48,366",7.70%,0,0,0,0,,DC
+Florida,"77,96,916",Official,https://floridaelectionwatch.gov/Home,48.10%,"1,61,97,278","1,81,00,676",9.40%,"75,977","1,23,920","4,280","2,04,177",,FL
+Georgia,"39,64,926",Official,https://results.enr.clarityelections.com/GA/115465/web.307039/#/summary,51.90%,"76,44,125","84,45,249",5.90%,"44,796","2,35,589","19,447","2,99,832",,GA
+Hawaii,"4,23,443",Final,https://elections.hawaii.gov/election-results/,40.50%,"10,46,736","11,44,775",8.20%,"4,097",0,0,"4,097",,HI
+Idaho,"5,95,350",Official,https://www.livevoterturnout.com/ENR/idaho/124/1/en/Index_124.html,42.60%,"13,97,732","14,90,206",4.00%,"7,996","18,918","5,967","32,881",,ID
+Illinois,"41,44,125",Certified,https://www.elections.il.gov/Main/Publications.aspx,45.80%,"90,48,164","98,59,786",7.90%,"28,582",0,0,"28,582",,IL
+Indiana,"18,80,755",Final,https://enr.indianavoters.in.gov/site/index.html,37.20%,"50,61,894","52,77,826",3.60%,"23,458",0,0,"23,458",,IN
+Iowa,"12,30,417",Official,https://electionresults.iowa.gov/IA/115641/web.307039/#/summary,51.90%,"23,72,595","24,82,470",3.10%,"8,128","17,139","7,261","32,528",,IA
+Kansas,"10,08,998",Final Total Turnout Pending,https://sos.ks.gov/elections/22elec/2022-General-Official-Vote-Totals.pdf,47.60%,"21,21,246","22,51,251",4.70%,"8,477","10,953","5,428","24,858",,KS
+Kentucky,"15,02,550",Final Total Turnout Pending,https://elect.ky.gov/Pages/default.aspx,44.80%,"33,52,567","35,12,486",2.50%,"18,433","38,267","14,429","71,129",,KY
+Louisiana,"14,10,466",Official,https://voterportal.sos.la.gov/graphical,42.00%,"33,55,031","35,24,363",2.90%,"26,851","19,250","21,566","67,667",,LA
+Maine,"6,80,909",Certified,https://www.maine.gov/sos/cec/elec/results/index.html,60.80%,"11,19,461","11,43,143",1.90%,0,0,0,0,,ME
+Maryland,"20,31,635",Official,https://elections.maryland.gov/press_room/2022_stats/GG22/Official%20by%20Party%20and%20County.pdf,45.80%,"44,34,258","48,23,486",8.10%,"14,918",0,0,"14,918",,MD
+Massachusetts,"25,11,461",Official,https://electionstats.state.ma.us/,48.80%,"51,41,977","56,51,857",8.90%,"5,993",0,0,"5,993",,MA
+Michigan,"45,00,400",Official,https://mielections.us/election/results/2022GEN_CENR.html,58.90%,"76,40,677","79,33,413",3.30%,"33,246",0,0,"33,246",,MI
+Minnesota,"25,26,646",Official,https://electionresults.sos.state.mn.us/20221108,60.40%,"41,81,894","44,34,088",4.00%,"7,681","58,825","7,359","73,865",,MN
+Mississippi,"7,09,100",Certified,https://www.sos.ms.gov/elections-voting/2022-general-election-results,32.50%,"21,83,828","22,63,618",1.40%,"17,569","20,027","10,510","48,106",,MS
+Missouri,"23,04,250",Official,https://enr.sos.mo.gov/,49.60%,"46,42,509","48,22,855",2.30%,"22,890","26,737","20,729","70,356",,MO
+Montana,"4,68,326",Certified,https://electionresults.mt.gov/,53.20%,"8,79,710","8,95,752",1.40%,"3,910",0,0,"3,910",,MT
+Nebraska,"6,82,716",Official,https://electionresults.nebraska.gov/,48.40%,"14,09,798","14,94,725",4.70%,"5,071","7,903","1,156","14,130",,NE
+Nevada,"10,23,617",Certified,https://silverstateelection.nv.gov/,45.80%,"22,32,999","25,02,244",10.30%,"10,455",0,0,"10,455",,NV
+New Hampshire,"6,26,931",Certified,https://www.sos.nh.gov/elections/elections/election-results/2022-general-election-results,56.30%,"11,13,547","11,45,537",2.60%,"2,158",0,0,"2,158",,NH
+New Jersey,"26,45,539",Official,https://www.nj.gov/state/elections/election-information-2022.shtml,41.00%,"64,47,094","72,75,453",11.20%,"11,896",0,0,"11,896",,NJ
+New Mexico,"7,14,754",Official,https://electionresults.sos.state.nm.us/default.aspx,46.30%,"15,42,457","16,57,556",6.00%,"5,377","8,061","2,725","16,163",,NM
+New York,"59,62,278",Certified,https://www.elections.ny.gov/,42.50%,"1,40,26,187","1,56,76,287",10.30%,"32,574",0,0,"32,574",,NY
+North Carolina,"37,90,202",Official,https://er.ncsbe.gov/,47.50%,"79,72,970","84,55,572",5.40%,"28,406",0,0,"28,406",,NC
+North Dakota,"2,42,566",Official,https://results.sos.nd.gov/Default.aspx?map=Cty&mode=0,41.70%,"5,81,570","5,98,899",2.70%,"1,384",0,0,"1,384",,ND
+Ohio,"42,01,368",Official,https://www.ohiosos.gov/elections/election-results-and-data/2022-official-election-results/,47.10%,"89,21,202","91,99,881",2.50%,"44,608",0,0,"44,608",,OH
+Oklahoma,"11,53,284",Official,https://results.okelections.us/OKER/?elecDate=20221108,39.60%,"29,13,333","30,80,502",4.10%,"22,071","15,889","2,237","40,197",,OK
+Oregon,"19,97,689",Official,https://sos.oregon.gov/elections/Pages/electionhistory.aspx,62.30%,"32,08,133","34,09,264",5.50%,"12,753",0,0,"12,753",,OR
+Pennsylvania,"54,10,022",Final Total Turnout Pending,https://www.electionreturns.pa.gov/,54.40%,"99,53,327","1,03,66,708",3.60%,"38,938",0,0,"38,938",,PA
+Rhode Island,"3,61,449",Certified,https://twitter.com/RI_BOE/status/1597301970133716992/photo/1,43.60%,"8,28,495","8,90,835",6.70%,"2,227",0,0,"2,227",,RI
+South Carolina,"17,18,626",Official,https://www.enr-scvotes.org/SC/115412/Web02-state.307150/#/?undefined,42.80%,"40,18,588","41,95,145",3.30%,"15,787","18,208","4,638","38,633",,SC
+South Dakota,"3,54,670",Official,https://electionresults.sd.gov/default.aspx,53.10%,"6,68,380","6,95,896",2.20%,"3,176","5,210","3,673","12,059",,SD
+Tennessee,"17,56,397",Certified,https://sos.tn.gov/elections/results,33.30%,"52,70,397","55,39,421",3.50%,"22,205","41,780","12,407","76,392",,TN
+Texas,"81,51,590",Official,https://results.texas-election.com/races,41.80%,"1,94,99,000","2,27,46,809",12.20%,"1,28,653","2,30,704","1,10,437","4,69,794",,TX
+Utah,"10,84,634",Certified,https://vote.utah.gov/wp-content/uploads/sites/42/2022/12/Signed-2022-General-Election-State-Canvass-Certification.pdf,46.80%,"23,17,746","24,68,679",5.90%,"5,249",0,0,"5,249",,UT
+Vermont,"2,91,955",Certified,https://sos.vermont.gov/elections/election-info-resources/elections-results-data/,56.00%,"5,21,758","5,33,545",2.00%,0,0,0,0,,VT
+Virginia,"30,21,956",Official,https://results.elections.virginia.gov/vaelections/2022%20November%20General/Site/Statistics/Index.html,47.60%,"63,48,891","68,36,463",6.00%,"30,620","44,353","2,017","76,990",,VA
+Washington,"30,67,686",Final,https://results.vote.wa.gov/results/20221108/,55.30%,"55,43,001","61,64,761",8.80%,"15,056","49,805","14,536","79,397",,WA
+West Virginia,"4,94,753",Official,https://results.enr.clarityelections.com/WV/115844/web.307039/#/summary,35.40%,"13,96,169","14,23,003",0.90%,"6,031","4,308","3,682","14,021",,WV
+Wisconsin,"26,73,154",Certified,https://elections.wi.gov/elections/election-results#accordion-5601,59.80%,"44,67,396","46,55,496",3.00%,"19,846","26,486","23,174","69,506",,WI
+Wyoming,"1,98,198",Official,https://sos.wyo.gov/Elections/Docs/2022/2022GeneralResults.aspx,45.60%,"4,34,797","4,52,896",2.50%,"2,034","3,745",954,"6,733",,WY
